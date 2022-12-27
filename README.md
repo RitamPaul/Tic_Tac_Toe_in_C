@@ -19,7 +19,6 @@ __3. Interface :-__  ` CUI `
 __4. Coding mode :-__  ` Dynamic memory allocation `
 ***
 
-__5. Output Example :-__
-![alt text][logo]
-[logo]: 
-***
+__5. Output Example :-__  
+  
+![alt text](https://github.com/RitamPaul/Tic_Tac_Toe_in_C/blob/main/Screenshot/match_board.png "Sample")
